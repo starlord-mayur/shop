@@ -1,1 +1,1 @@
-# mgshop.github.io
+# mgshop
